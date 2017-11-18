@@ -4,7 +4,7 @@
 		"355897356312379403"		
 	],
 	"roleName": "rainbow",
-	"colors": 12,
+	"colors": 200,
 	"speed": 2000,
-	"logging": true
+	"logging": false
 }
