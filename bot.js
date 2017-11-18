@@ -6,8 +6,8 @@ const client = new Discord.Client();
 });
 
 client.on('message', msg => {
-  if (msg.content === '@Soundcloud Rapper') {
-    msg.reply('Think your cool calling out esco? fuck off loser.');
+  if (msg.content === 'gay') {
+    msg.reply('Think your cool calling people gay? suck an ass');
    
 }});
 
