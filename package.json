@@ -1,0 +1,13 @@
+{
+  "name": "Uma",
+  "description": "Uma bot for discord",
+  "version": "0.0.1",
+  "main": "MainModule.js",
+  "scripts": {
+    "start": "node MainModule.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
