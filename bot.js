@@ -6,7 +6,7 @@ const client = new Discord.Client();
 });
 
 client.on('message', msg => {
-  if (msg.content === '@esco#2218') {
+  if (msg.content === '@Soundcloud Rapper') {
     msg.reply('Think your cool calling out esco? fuck off loser.');
    
 }});
