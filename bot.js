@@ -6,8 +6,8 @@ const client = new Discord.Client();
 });
 
 client.on('message', msg => {
-  if (msg.content === 'gay') {
-    msg.reply('Think your cool calling people gay? suck an ass');
+  if (msg.content === 'esco') {
+    msg.reply('esco is currently taken by opossum. stop trying to get with him.');
    
 }});
 
